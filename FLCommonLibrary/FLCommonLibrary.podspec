@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.platform = :ios
   s.name             = 'FLCommonLibrary'
-  s.version          = '0.1.0'
+  s.version          = '1.0.1'
   s.summary = "FLCommonLibrary lets a user use utility methods."
   s.requires_arc = true
 
