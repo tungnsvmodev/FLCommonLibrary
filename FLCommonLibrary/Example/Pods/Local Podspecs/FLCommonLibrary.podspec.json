@@ -1,0 +1,22 @@
+{
+  "name": "FLCommonLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of FLCommonLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tungnsvmodev/FLCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tungnsvmodev": "nguyen_t1@denison.edu"
+  },
+  "source": {
+    "git": "https://github.com/tungnsvmodev/FLCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FLCommonLibrary/Classes/**/*"
+}
